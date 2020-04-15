@@ -1444,4 +1444,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [siman-utfpr's Solution](https://github.com/siman-utfpr/rock-paper-scissors)
 - [marvkal's Solution](https://github.com/marvkal/Rock-Paper-Scissors)
 - [Takuya's Solution](https://github.com/TakuyaToyokawa/2-Rock-Paper-Scissors) - [View in Browser](https://takuyatoyokawa.github.io/2-Rock-Paper-Scissors/)
+-[gins Solution](https://github.com/mvangin/rock-paper-scissors)
 </details>
