@@ -277,5 +277,6 @@ Send us your solution so we can show others! Submit a link below to this [file](
 - [kbrdsk's Solution (w/firebase)](https://github.com/kbrdsk/library) - [View in Browser](https://kbrdsk.github.io/library/)
 - [Tristan Ross's Solution](https://github.com/TristanRoss/Library) - [View in Browser](https://tristanross.github.io/Library/)
 - [Danyl Matviyenko's Solution](https://github.com/DanylMatviyenko/TheOdinProject-LIBRARY-) - [View in Browser](https://danylmatviyenko.github.io/TheOdinProject-LIBRARY-/)
+- [mgins Solution (w/localstorage)](https://github.com/mvangin/libraryProject) - [View in Browser](https://mvangin.github.io/libraryProject/)
 </details>
 
