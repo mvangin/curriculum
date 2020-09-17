@@ -169,6 +169,7 @@ Send us your solution so we can show others! Submit a link to the GitHub [repo](
 * [icepick-pauly's Solution](https://github.com/icepick-pauly/top_htmlcss_nytclone) - [View in Browser](https://icepick-pauly.github.io/top_htmlcss_nytclone/)
 * [Mickey's Solution](https://github.com/Daidelos/Space-Ripples) - [View in Browser](https://daidelos.github.io/Space-Ripples/)
 * [Nijepa's Solution](https://github.com/nijepa/positioning-and-floating-elements) - [View in Browser](https://nijepa.github.io/positioning-and-floating-elements/)
+* [Mgins's Solution](https://github.com/mvangin/nytimes-clone) - [View in Browser](https://mvangin.github.io/nytimes-clone/)
 </details>
 
 ### Additional Resources
